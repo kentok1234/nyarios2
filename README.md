@@ -1,5 +1,5 @@
 # Nyarios
-Nyarios ngabuburit bareng laos
+Nyarios ngabuburit bareng laos bersama dengan anggota UKM LAOS
 
 ##Description
 Belajar tentang git dan github untuk kolaborasi proyek
@@ -7,4 +7,4 @@ Belajar tentang git dan github untuk kolaborasi proyek
 
 
 ## Perkenalan
-Nama saya LAOS
+Nama saya UKM LAOS saya sangat suka hal yang berkaitan dengan open source
