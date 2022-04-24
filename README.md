@@ -7,4 +7,4 @@ Belajar tentang git dan github untuk kolaborasi proyek
 
 
 ## Perkenalan
-Nama saya LAOS
+Nama saya UKM LAOS saya sangat suka hal yang berkaitan dengan open source
